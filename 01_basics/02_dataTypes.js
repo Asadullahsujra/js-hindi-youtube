@@ -9,6 +9,8 @@ console.log("Asad");
 let name = "Asad"
 let age = 27
 let isLoggedIn = false
+//let state;
+let state = null
 
 
 
@@ -16,5 +18,11 @@ let isLoggedIn = false
 // bigint =>
 // string => ""
 // boolean => true/false
-// null => standalone value
-// undefined = 
+// null => stand alone value
+// undefined =>
+// symble => unique
+
+// object
+
+console.log(typeof undefined); // undefined
+console.log(typeof null); // object
